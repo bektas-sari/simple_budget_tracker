@@ -1,6 +1,8 @@
 # 💰 Simple Budget Tracker
 
-A clean and minimal Flutter app that lets you track your income and expenses easily. See your total balance and visualize your financial data through a live pie chart. Ideal for learning Flutter basics like ListTile, BottomSheet, and state management.
+A clean and minimal Flutter app that lets you track your income and expenses easily. 
+See your total balance and visualize your financial data through a live pie chart. 
+Ideal for learning Flutter basics like ListTile, BottomSheet, and state management.
 
 ---
 
@@ -18,12 +20,6 @@ A clean and minimal Flutter app that lets you track your income and expenses eas
 
 - `pie_chart` – for data visualization  
 - Flutter SDK (3.x.x and above)
-
----
-
-## 📷 Screenshots
-
-> _You can add screenshot images here (e.g., assets/screenshots/home.png)_
 
 ---
 
