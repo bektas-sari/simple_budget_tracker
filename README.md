@@ -26,7 +26,7 @@ Ideal for learning Flutter basics like ListTile, BottomSheet, and state manageme
 ## ⚙️ Getting Started
 
 ```bash
-git clone https://github.com/yourusername/simple_budget_tracker.git
+git clone https://github.com/bektas-sari/simple_budget_tracker.git
 cd simple_budget_tracker
 flutter pub get
 flutter run
