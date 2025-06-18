@@ -1,4 +1,4 @@
-# 💰 Simple Budget Tracker
+# 💰 Simple Budget Tracker (Flutter App)
 
 A clean and minimal Flutter app that lets you track your income and expenses easily. 
 See your total balance and visualize your financial data through a live pie chart. 
