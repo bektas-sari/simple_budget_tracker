@@ -65,6 +65,6 @@ Flutter Developer & Software Educator<br>
 
 ## 📄 License
 
-MIT License © 2024 – Bektas SARI
+MIT License © 2025 – Bektas SARI
 
 
